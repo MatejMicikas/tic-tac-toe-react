@@ -8,9 +8,7 @@ The repository serves as a **portfolio project** demonstrating front-end fundame
 
 ## Live Preview
 
-```
 https://tic-tac-toe-react-nine-sooty.vercel.app/
-```
 
 ---
 
