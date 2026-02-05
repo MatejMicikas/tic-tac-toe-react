@@ -8,10 +8,8 @@ The repository serves as a **portfolio project** demonstrating front-end fundame
 
 ## Live Preview
 
-_(optional – add if you deploy it later, e.g. Vercel / Netlify)_
-
 ```
-https://your-demo-link-here
+https://tic-tac-toe-react-nine-sooty.vercel.app/
 ```
 
 ---
